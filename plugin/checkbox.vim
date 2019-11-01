@@ -36,4 +36,3 @@ command! ToggleCB call checkbox#ToggleCB()
 nmap <silent> <leader>tt :ToggleCB<cr>
 
 let g:loaded_checkbox = 1
-
